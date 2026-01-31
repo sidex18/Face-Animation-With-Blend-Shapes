@@ -1,0 +1,6 @@
+36_facecompress 1.0
+45_frownR 1.0
+46_frownL 1.0
+53_jawupward 1.0
+57_closeeyeR 0.17
+58_closeeyeL 0.17

@@ -1,0 +1,6 @@
+46_frownL 1.000
+56_forcedsmileL 0.154
+69_mouthopen 0.148
+106_cringeL 0.850
+111_browR 1.000
+113_eyeR 1.000

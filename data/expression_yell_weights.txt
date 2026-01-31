@@ -1,0 +1,7 @@
+69_mouthopen 1.0
+105_cringeR 1.0
+106_cringeL 1.0
+111_browR 1.0
+112_browL 1.0
+113_eyeR 1.0
+114_eyeL 1.0

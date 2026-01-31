@@ -1,0 +1,5 @@
+51_cheekinwardR 1.0
+55_forcedsmileR 0.45
+56_forcedsmileL 0.45
+77_smileR 1.0
+78_smileL 1.0
