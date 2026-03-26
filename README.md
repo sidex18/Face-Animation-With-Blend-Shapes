@@ -9,7 +9,7 @@
 python .\src\main.py --mode slider
 ```
 
-As you progress through the assignment, you will change `--mode` to be one of `slider`, `lerp`, and `cmrom`.
+The options for `--mode` to be one of `slider`, `lerp`, and `cmrom`.
 
 Take a look at `src/cli.py` for additional flags.
 
