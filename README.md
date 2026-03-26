@@ -11,7 +11,11 @@ python .\src\main.py --mode slider
 
 The options for `--mode` to be one of `slider`, `lerp`, and `cmrom`.
 
+lerp and cmrom blend facial expressions using the linear interpolation and catmull rom splines, and sliders give control over different facial blendshapes
+
 Take a look at `src/cli.py` for additional flags.
+
+'src2' contains smooth blending for facial expressions without the 'slider' mode
 
 # Visualization
 
