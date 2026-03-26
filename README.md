@@ -1,7 +1,7 @@
 # Face Animation with Blend Shapes - UBC CPSC 426 Assignment 
 
 
-
+<video src="path/to/video.mp4" width="320" height="240" controls></video>
 
 
 ## Running
@@ -25,13 +25,6 @@ Take a look at `src/cli.py` for additional flags.
 [Polyscope](https://polyscope.run/py) is the viewer used to visualize your mesh and interact with blend shapes.
 
 **Camera controls:**
-
-
-
-
-<p align="center" width="100%">
-<video src="https://github.com/sidex18/Face-Animation-With-Blend-Shapes/blob/main/Blend%20Shapes%20catmull-rom.mp4" width="80%" controls></video>
-</p>
 - **Rotate**: Left-click and drag
 - **Pan**: Shift + left-click and drag
 - **Zoom**: Scroll wheel
