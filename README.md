@@ -1,5 +1,8 @@
 # Face Animation with Blend Shapes - UBC CPSC 426 Assignment 
 
+<p align="center" width="100%">
+<video src="https://github.com/sidex18/Face-Animation-With-Blend-Shapes/blob/main/Blend%20Shapes%20catmull-rom.mp4" width="80%" controls></video>
+</p>
 
 
 
